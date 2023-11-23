@@ -1,0 +1,4 @@
+D:\Apex\20231122\New folder (2)\appsettings.Development.json
+D:\Apex\20231122\New folder (2)\appsettings.json
+D:\Apex\20231122\New folder (2)\WorkerService1.pdb
+D:\Apex\20231122\New folder (2)\WorkerService1.exe
